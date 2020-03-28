@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/Syndicat-Extremiste-Logiciel/killer-app.git
+[submodule "srv"]
+	path = srv
+	url = https://github.com/Syndicat-Extremiste-Logiciel/killer-back.git
